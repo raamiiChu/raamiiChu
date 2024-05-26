@@ -55,7 +55,7 @@
 
 <h3 align="left">Cloud & Deployment</h3>
 <div>
-  <img src="https://img.shields.io/badge/Linux-764ABC?logo=linux&logoColor=000&style=for-the-badge" alt="Linux Badge">
+  <img src="https://img.shields.io/badge/Linux-764ABC?logo=linux&logoColor=fff&style=for-the-badge" alt="Linux Badge">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=for-the-badge" alt="Vercel Badge">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" alt="Amazon AWS Badge">
 </div>
