@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React Badge">
+  <img src="https://img.shields.io/badge/React-3776AB?logo=react&logoColor=fff&style=for-the-badge" alt="React Badge">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Next.js Badge">
   <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge" alt="React Query Badge">
   <img src="https://img.shields.io/badge/SWR-000?logo=swr&logoColor=fff&style=for-the-badge" alt="SWR Badge">
